@@ -7,5 +7,25 @@ How to configure a global Esperanto spellchecker for macOS
 2) Copy the dictionary files to the `~/Library/Spelling` folder. (The `Library` folder is a hidden folder. To get to Home/Library, you hold down the Option key while doing Finder > Go)
 3) Go to System Settings -> Keyboard -> Clicking on "Edit" in Input Sources -> Spelling, at the bottom it shows "Set Up..."
 <div align="center">
-    <img src="img_assets/w5WiMxY8.jpg" width="50%">
+    <img src="img_assets/w5WiMxY8.jpg" width="20%">
+</div>
+4) `Esperanto (Library)` will now appear as an option. Click the checkbox to enable it. Esperanto spellcheck is now configured on macOS.
+<div align="center">
+    <img src="img_assets/eA2hDpsv.jpg" width="20%">
+</div>
+
+### How to Use
+
+1) Open up Pages and create a new document
+2) Click Edit -> Spelling and Grammar -> Show Spelling and Grammar
+<div align="center">
+    <img src="img_assets/Settings1.jpg" width="30%">
+</div>
+4) Ensure that `Esperanto (Library)` is selected as the active spelling language 
+<div align="center">
+    <img src="img_assets/Settings2.jpg" width="30%">
+</div>
+5) Spellchecking in Esperanto is now active in Pages
+<div align="center">
+    <img src="img_assets/Pages-preview.jpg" width="30%">
 </div>
