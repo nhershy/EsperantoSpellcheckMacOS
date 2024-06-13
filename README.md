@@ -1,2 +1,3 @@
 # EsperantoSpellcheckMacOS
-A global Esperanto spellchecker for macOS
+How to configure a global Esperanto spellchecker for macOS
+
