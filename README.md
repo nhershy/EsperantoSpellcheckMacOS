@@ -46,6 +46,7 @@ How to configure a global Esperanto spellchecker for macOS
 Dictionary files downloaded from [OpenOffice](https://extensions.openoffice.org/en/project/esperantilo-spell-check-grammar-checker-and-thesaurus-esperanto-language) (v0.4.0992 used)
 
 Tutorials used:
+
 https://discussions.apple.com/docs/DOC-250005161
 
 https://jiradett.medium.com/add-new-language-to-mac-spell-check-ae7f2a7480fd
