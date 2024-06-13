@@ -17,15 +17,29 @@ How to configure a global Esperanto spellchecker for macOS
 ### How to Use
 
 1) Open up Pages and create a new document
+
 2) Click Edit -> Spelling and Grammar -> Show Spelling and Grammar
+
 <div align="center">
     <img src="img_assets/Settings1.jpg" width="50%">
 </div>
-4) Ensure that `Esperanto (Library)` is selected as the active spelling language 
+
+4) Ensure that `Esperanto (Library)` is selected as the active spelling language
+
 <div align="center">
     <img src="img_assets/Settings2.jpg" width="50%">
 </div>
+
 5) Spellchecking in Esperanto is now active in Pages
+
 <div align="center">
     <img src="img_assets/Pages-preview.jpg" width="50%">
 </div>
+
+### Resources
+
+Dictionary files downloaded from [OpenOffice](https://extensions.openoffice.org/en/project/esperantilo-spell-check-grammar-checker-and-thesaurus-esperanto-language) (v0.4.0992 used)
+
+Tutorials used:
+https://discussions.apple.com/docs/DOC-250005161
+https://jiradett.medium.com/add-new-language-to-mac-spell-check-ae7f2a7480fd
