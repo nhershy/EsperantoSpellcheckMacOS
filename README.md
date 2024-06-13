@@ -50,6 +50,6 @@ https://discussions.apple.com/docs/DOC-250005161
 
 https://jiradett.medium.com/add-new-language-to-mac-spell-check-ae7f2a7480fd
 
-### Are you looking for an Esperanto Keyboard for macOS? 
+## Are you looking for an Esperanto Keyboard for macOS? 
 
 Check out [EsperantaKlavaroMacOS](https://github.com/nhershy/EsperantaKlavaroMacOS)!
